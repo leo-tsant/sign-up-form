@@ -1,7 +1,7 @@
 # Sign-Up-Form
 
 Live Demo:
-https://leo-tsant.github.io/Sign-Up-Form/
+https://leo-tsant.github.io/sign-up-form/
 
 ![Project Screenshot](./pictures/sign-up-form.png)
 
